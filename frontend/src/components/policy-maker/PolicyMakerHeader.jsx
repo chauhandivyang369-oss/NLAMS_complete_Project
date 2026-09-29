@@ -12,6 +12,7 @@ import {
   Layers,
   ArrowRightLeft,
   X,
+  Menu,
   Sparkles,
   LogOut,
   ShieldAlert
